@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37069" started-at="2019-07-25T08:48:22Z" finished-at="2019-07-25T08:48:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37069" started-at="2019-07-25T08:48:22Z" finished-at="2019-07-25T08:48:59Z">
+      <class name="Jenkins.TestScript">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Jenkins.TestScript@2aafb23c]" name="beforeMethod" is-config="true" duration-ms="16012" started-at="2019-07-25T14:18:22Z" finished-at="2019-07-25T14:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Jenkins.TestScript@2aafb23c]" name="f" duration-ms="20667" started-at="2019-07-25T14:18:38Z" finished-at="2019-07-25T14:18:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Jenkins.TestScript@2aafb23c]" name="afterMethod" is-config="true" duration-ms="356" started-at="2019-07-25T14:18:59Z" finished-at="2019-07-25T14:18:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Jenkins.TestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
